@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Magic Car Remote Control</Name>
+    <Version>1.0.0</Version>
+    <Title>Magic Car Remote Control Installer</Title>
+    <Publisher>Ivan Alejandro</Publisher>
+    <StartMenuDir>Magic Car Remote Control</StartMenuDir>
+    <TargetDir>@HomeDir@/MagicCarRemoteControl</TargetDir>
+</Installer> 
